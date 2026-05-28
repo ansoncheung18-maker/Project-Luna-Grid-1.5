@@ -3,8 +3,6 @@
 **Lunar South Pole Solar Power Station**  
 *TWh-scale | 48% efficiency | 1064nm laser transmission | 3D vertical grating*
 
----
-
 ## 🚀 Mission Overview
 
 Deploy a **TWh-scale solar power station** at the Lunar South Pole (Peaks of Eternal Light), delivering **7,624 GWh/year** to Earth via **1064nm laser** with **85% transmission efficiency**.
@@ -21,8 +19,6 @@ Deploy a **TWh-scale solar power station** at the Lunar South Pole (Peaks of Ete
 | Households Powered | ~220 million |
 | Payback Period (Conservative) | ~77 days |
 
----
-
 ## 💡 Key Innovations
 
 | Innovation | Description |
@@ -32,9 +28,7 @@ Deploy a **TWh-scale solar power station** at the Lunar South Pole (Peaks of Ete
 | **Laser Transmission** | 1064nm laser with adaptive optics, 85% efficiency |
 | **EDS Dust Mitigation** | Electrodynamic Dust Shield, 20x cleaning improvement |
 
----
-
-## 📊 Python Simulation Results
+## 📊 Python Simulation Results (Phase A)
 
 | Simulation | Result |
 |:---|:---|
@@ -43,5 +37,15 @@ Deploy a **TWh-scale solar power station** at the Lunar South Pole (Peaks of Ete
 | Laser Transmission | **90.3%** efficiency ✅ |
 | Cost Benefit | **77 days** payback (conservative) ✅ |
 | Dust Mitigation (EDS) | Cleaning every **205 days** ✅ |
+
+---
+
+## 📈 Project Progress
+
+| Phase | Status | Description |
+|:---|:---|:---|
+| **Phase A** | ✅ Complete | Concept design, 5 Python simulations, 9.3-9.5 score |
+| **Phase B** | 🚧 In Progress | Preliminary design (mass/power budget, FMEA, specifications) |
+| **Phase C** | ⏳ Planned | Detailed design, CAD drawings, manufacturing plan |
 
 ## 📁 Repository Structure
