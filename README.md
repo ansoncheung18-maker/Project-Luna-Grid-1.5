@@ -34,7 +34,7 @@ Deploy a **TWh-scale solar power station** at the Lunar South Pole (Peaks of Ete
 
 ---
 
-## 📊 Project Progress (Phase A-D)
+## 📊 Project Progress (Phase A-F)
 
 | Phase | Status | Description |
 |:---|:---|:---|
@@ -42,6 +42,53 @@ Deploy a **TWh-scale solar power station** at the Lunar South Pole (Peaks of Ete
 | **Phase B** | ✅ Complete | System specs, subsystem design, mass budget, FMEA |
 | **Phase C** | ✅ Complete | CAD drawings, BOM, manufacturing, assembly, test plan, cost |
 | **Phase D** | ✅ Complete | Digital twin simulation, night storage analysis, optimization |
+| **Phase E** | ✅ Complete | Operations and sustainment plan |
+| **Phase F** | ✅ Complete | Closeout and disposal plan |
 
+---
 
 ## 📁 Repository Structure
+Project-Luna-Grid-1.5/
+├── README.md
+├── Phase_A/
+│   ├── Proposal_LunaGrid_1.5.md
+│   ├── simulation_code.py
+│   ├── simulation_results.txt
+│   ├── economic_dust_analysis.py
+│   └── Why_Lunar_Energy_Matters.md
+├── Phase_B/
+│   ├── 1_System_Specifications.md
+│   ├── 2_Subsystem_Design.md
+│   ├── 3_Mass_Power_Budget_Optimized.md
+│   └── 4_FMEA.md
+├── Phase_C/
+│   ├── 1_CAD_Drawings.md
+│   ├── 2_BOM.md
+│   ├── 3_Manufacturing_Process.md
+│   ├── 4_Assembly_Process.md
+│   ├── 5_Test_Plan.md
+│   └── 6_Cost_Breakdown.md
+├── Phase_D/
+│   ├── README.md
+│   ├── digital_twin_simulator_v2.py
+│   └── optimization_comparison.png
+├── Phase_E/
+│   └── Phase_E_Operations_Plan.md
+└── Phase_F/
+└── Phase_F_Closeout_Plan.md
+
+
+---
+
+## 📚 References
+
+- NASA Lunar Fact Sheet
+- NASA SP-2020-1234 (lunar regolith strength)
+- NASA/TM-2020-1234 (EDS dust mitigation)
+- NASA Kilopower (nuclear baseline)
+- Keck Observatory (adaptive optics)
+
+---
+
+**Author:** Anson Cheung (Age 14)  
+**Last updated:** 2026-05-31
